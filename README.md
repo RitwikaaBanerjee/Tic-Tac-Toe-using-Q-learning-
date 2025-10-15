@@ -83,13 +83,7 @@ Where:
 - `γ` = discount factor  
 - `reward` = immediate feedback after taking action `a`  
 
----
 
-## 📸 Screenshot
-(Add your screenshot here after running the app)
-```
-![Tic Tac Toe Streamlit UI](screenshot.png)
-```
 
 ---
 
